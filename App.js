@@ -49,7 +49,7 @@ function App() {
      return (
           <div>
                {' '}
-               <h1>Tic-React-Toe</h1> <h2>It's X's turn!</h2>{' '}
+               <h1>Tic-React-Toe</h1> <h2>It's {turn}'s turn!</h2>{' '}
                <div class='flex-container flex-column'>
                     {' '}
                     <div
